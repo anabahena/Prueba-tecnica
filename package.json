@@ -9,13 +9,20 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+<<<<<<< HEAD
     "vue": "^2.6.11",
     "vue-router": "^3.1.5"
+=======
+    "vue": "^2.6.11"
+>>>>>>> 94899f8be80ecd0d349b32a22505c335c0a943e6
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
+<<<<<<< HEAD
     "@vue/cli-plugin-router": "~4.2.0",
+=======
+>>>>>>> 94899f8be80ecd0d349b32a22505c335c0a943e6
     "@vue/cli-service": "~4.2.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.2",

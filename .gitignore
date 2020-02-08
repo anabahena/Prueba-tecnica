@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
+=======
+node_modules
+>>>>>>> 94899f8be80ecd0d349b32a22505c335c0a943e6
