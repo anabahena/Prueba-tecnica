@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+      <img src="./assets/logo.png" alt="">
     <router-view/>
   </div>
 </template>
@@ -31,6 +27,3 @@
   color: #42b983;
 }
 </style>
-=======
-<p>Hola Vue</p>
->>>>>>> 94899f8be80ecd0d349b32a22505c335c0a943e6
